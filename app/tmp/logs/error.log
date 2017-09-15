@@ -1,0 +1,1180 @@
+2017-09-11 04:41:07 Error: [ParseError] syntax error, unexpected '']; ?></td>' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+Request URL: /posts/index?q=%2Fposts%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#1 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#2 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-11 04:51:01 Error: [ParseError] syntax error, unexpected ';', expecting ',' or ')'
+Request URL: /posts/index?q=%2Fposts%2Findex
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-11 04:52:17 Error: [ParseError] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /posts/index?q=%2Fposts%2Findex
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-11 05:09:25 Error: [ParseError] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /posts/index?q=%2Fposts%2Findex
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-11 05:40:45 Error: [ParseError] syntax error, unexpected '']; ?></td>' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+Request URL: /posts/index?q=%2Fposts%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#1 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#2 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-11 05:42:31 Error: [ParseError] syntax error, unexpected '']; ?></td>' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+Request URL: /posts/index?q=%2Fposts%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#1 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#2 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-11 05:43:58 Error: [ParseError] syntax error, unexpected '']; ?></td>' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+Request URL: /posts/index?q=%2Fposts%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#1 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#2 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-11 05:44:15 Error: [ParseError] syntax error, unexpected '']; ?></td>' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+Request URL: /posts/index?q=%2Fposts%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#1 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#2 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-11 05:44:51 Error: [ParseError] syntax error, unexpected '']; ?></td>' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+Request URL: /posts/index?q=%2Fposts%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#1 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#2 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-11 05:45:17 Error: [ParseError] syntax error, unexpected '']; ?></td>' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+Request URL: /posts/index?q=%2Fposts%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#1 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#2 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-11 05:45:42 Error: [ParseError] syntax error, unexpected '']; ?></td>' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+Request URL: /posts/index?q=%2Fposts%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#1 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#2 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-11 05:46:37 Error: [ParseError] syntax error, unexpected '']; ?></td>' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+Request URL: /posts/index?q=%2Fposts%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#1 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#2 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-11 07:04:52 Error: [MissingActionException] Action PostsController::edit() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'edit',
+)
+Request URL: /posts/edit/1?q=%2Fposts%2Fedit%2F1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-09-11 07:32:49 Error: [MissingActionException] Action PostsController::delete() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'delete',
+)
+Request URL: /posts/delete/7?q=%2Fposts%2Fdelete%2F7
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-09-11 09:00:38 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] No such file or directory',
+  'enabled' => true,
+)
+Request URL: /posts/index?q=%2Fposts%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(271): Mysql->connect()
+#1 /var/www/cakephp/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /var/www/cakephp/lib/Cake/Model/Model.php(3640): ConnectionManager::getDataSource('default')
+#3 /var/www/cakephp/lib/Cake/Model/Model.php(1162): Model->setDataSource('default')
+#4 /var/www/cakephp/lib/Cake/Model/Model.php(3667): Model->setSource('posts')
+#5 /var/www/cakephp/lib/Cake/Model/Model.php(3038): Model->getDataSource()
+#6 /var/www/cakephp/lib/Cake/Model/Model.php(3010): Model->_readDataSource('all', Array)
+#7 /var/www/cakephp/app/Controller/PostsController.php(7): Model->find('all')
+#8 [internal function]: PostsController->index()
+#9 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#10 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#12 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2017-09-12 01:53:44 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /posts/index?q=%2Fposts%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/index')
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-12 02:46:56 Error: [Error] Call to undefined method PostsController::r()
+Request URL: /posts/edit/6?q=%2Fposts%2Fedit%2F6
+Stack Trace:
+#0 [internal function]: PostsController->edit('6')
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-12 02:54:33 Error: [ParseError] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /posts/view/6?q=%2Fposts%2Fview%2F6
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-12 02:56:13 Error: [ParseError] syntax error, unexpected '}'
+Request URL: /posts/edit/4?q=%2Fposts%2Fedit%2F4
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-12 02:56:26 Error: [ParseError] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /posts/edit/1?q=%2Fposts%2Fedit%2F1
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-12 02:56:40 Error: [ParseError] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /posts/edit/1?q=%2Fposts%2Fedit%2F1
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-12 02:57:13 Error: [Error] Call to undefined method PostsController::redirect　()
+Request URL: /posts/edit/1?q=%2Fposts%2Fedit%2F1
+Stack Trace:
+#0 [internal function]: PostsController->edit('1')
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-12 16:25:35 Error: [Error] Call to a member function allow() on null
+Request URL: /users/add?q=%2Fusers%2Fadd
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): UsersController->beforeFilter(Object(CakeEvent))
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-12 16:26:00 Error: [Error] Call to a member function allow() on null
+Request URL: /users/add?q=%2Fusers%2Fadd
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): UsersController->beforeFilter(Object(CakeEvent))
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-12 16:26:55 Error: [Error] Call to a member function allow() on null
+Request URL: /users/add?q=%2Fusers%2Fadd
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): UsersController->beforeFilter(Object(CakeEvent))
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-12 16:30:07 Error: [Error] Call to a member function allow() on null
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): UsersController->beforeFilter(Object(CakeEvent))
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-12 16:30:51 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/Controller/Controller.php(741): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/Controller/Controller.php(368): Controller->loadModel('User')
+#5 /var/www/cakephp/lib/Cake/Controller/Controller.php(406): Controller->__isset('User')
+#6 /var/www/cakephp/app/Controller/UsersController.php(9): Controller->__get('User')
+#7 [internal function]: UsersController->index()
+#8 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-09-12 16:59:26 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/add?q=%2Fusers%2Fadd
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(163): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(204): FormHelper->_getModel('User')
+#5 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(354): FormHelper->_introspectModel('User', 'key')
+#6 /var/www/cakephp/app/View/Users/add.ctp(3): FormHelper->create('User')
+#7 /var/www/cakephp/lib/Cake/View/View.php(971): include('/var/www/cakeph...')
+#8 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#9 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#10 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#11 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#12 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#13 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2017-09-12 16:59:26 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/add?q=%2Fusers%2Fadd
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(163): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(204): FormHelper->_getModel('User')
+#5 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(354): FormHelper->_introspectModel('User', 'key')
+#6 /var/www/cakephp/app/View/Users/add.ctp(3): FormHelper->create('User')
+#7 /var/www/cakephp/lib/Cake/View/View.php(971): include('/var/www/cakeph...')
+#8 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#9 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#10 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#11 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#12 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#13 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2017-09-12 17:34:36 Error: [NotFoundException] Invalid post
+Request URL: /posts/view?q=%2Fposts%2Fview
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-13 10:46:33 Error: [MissingActionException] Action UsersController::edit() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'edit',
+)
+Request URL: /users/edit/1?q=%2Fusers%2Fedit%2F1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-09-13 11:23:17 Error: [MissingActionException] Action UsersController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+)
+Request URL: /users/login?q=%2Fusers%2Flogin
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-09-13 11:23:29 Error: [MissingActionException] Action UsersController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+)
+Request URL: /users/login?q=%2Fusers%2Flogin
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-09-13 13:14:33 Error: [Error] Call to a member function allow() on null
+Request URL: /users/add?q=%2Fusers%2Fadd
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): UsersController->beforeFilter(Object(CakeEvent))
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-13 13:14:34 Error: [Error] Call to a member function allow() on null
+Request URL: /users/add?q=%2Fusers%2Fadd
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): UsersController->beforeFilter(Object(CakeEvent))
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-13 13:15:45 Error: [Error] Class 'BlowfishPasswordHasher' not found
+Request URL: /users/add?q=%2Fusers%2Fadd
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(241): User->beforeSave(Array)
+#1 /var/www/cakephp/lib/Cake/Model/Model.php(1871): CakeEventManager->dispatch(Object(CakeEvent))
+#2 /var/www/cakephp/lib/Cake/Model/Model.php(1758): Model->_doSave(Array, Array)
+#3 /var/www/cakephp/app/Controller/UsersController.php(42): Model->save(Array)
+#4 [internal function]: UsersController->add()
+#5 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2017-09-13 14:18:16 Error: [MissingActionException] Action PostsController::logout() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'logout',
+)
+Request URL: /posts/logout?q=%2Fposts%2Flogout
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-09-13 14:48:34 Error: [ParseError] syntax error, unexpected ''authorize'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /posts?q=%2Fposts
+Stack Trace:
+#0 [internal function]: App::load('AppController')
+#1 /var/www/cakephp/app/Controller/PostsController.php(2): spl_autoload_call('AppController')
+#2 /var/www/cakephp/lib/Cake/Core/App.php(567): include('/var/www/cakeph...')
+#3 [internal function]: App::load('PostsController')
+#4 [internal function]: spl_autoload_call('PostsController')
+#5 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#6 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#7 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#8 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2017-09-13 14:48:34 Error: Fatal Error (16): Exception thrown without a stack frame in [Unknown, line 0]
+2017-09-13 14:48:34 Error: [FatalErrorException] Exception thrown without a stack frame
+Request URL: /posts?q=%2Fposts
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(16, 'Exception throw...', 'Unknown', 0)
+#1 /var/www/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(16, 'Exception throw...', 'Unknown', 0, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-09-13 16:39:36 Error: [PDOException] SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xE3\x82\xBF\xE3\x82\xA4...' for column 'title' at row 1
+Request URL: /posts/add?q=%2Fposts%2Fadd
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(472): PDOStatement->execute(Array)
+#1 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(438): DboSource->_execute('INSERT INTO `ac...', Array)
+#2 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(1092): DboSource->execute('INSERT INTO `ac...')
+#3 /var/www/cakephp/lib/Cake/Model/Model.php(1940): DboSource->create(Object(Post), Array, Array)
+#4 /var/www/cakephp/lib/Cake/Model/Model.php(1758): Model->_doSave(Array, Array)
+#5 /var/www/cakephp/app/Controller/PostsController.php(27): Model->save(Array)
+#6 [internal function]: PostsController->add()
+#7 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2017-09-13 16:43:22 Error: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'user_id' doesn't have a default value
+Request URL: /posts/add?q=%2Fposts%2Fadd
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(472): PDOStatement->execute(Array)
+#1 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(438): DboSource->_execute('INSERT INTO `ac...', Array)
+#2 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(1092): DboSource->execute('INSERT INTO `ac...')
+#3 /var/www/cakephp/lib/Cake/Model/Model.php(1940): DboSource->create(Object(Post), Array, Array)
+#4 /var/www/cakephp/lib/Cake/Model/Model.php(1758): Model->_doSave(Array, Array)
+#5 /var/www/cakephp/app/Controller/PostsController.php(27): Model->save(Array)
+#6 [internal function]: PostsController->add()
+#7 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2017-09-13 17:18:42 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /groups/add?q=%2Fgroups%2Fadd
+Stack Trace:
+#0 [internal function]: App::load('GroupsControlle...')
+#1 [internal function]: spl_autoload_call('GroupsControlle...')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('GroupsControlle...')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-13 17:19:01 Error: [MissingControllerException] Controller class GroupController could not be found.
+Exception Attributes: array (
+  'class' => 'GroupController',
+  'plugin' => NULL,
+)
+Request URL: /group/add?q=%2Fgroup%2Fadd
+Stack Trace:
+#0 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-13 17:19:46 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /groups/add?q=%2Fgroups%2Fadd
+Stack Trace:
+#0 [internal function]: App::load('GroupsControlle...')
+#1 [internal function]: spl_autoload_call('GroupsControlle...')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('GroupsControlle...')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-13 17:20:55 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /groups/index?q=%2Fgroups%2Findex
+Stack Trace:
+#0 [internal function]: App::load('GroupsControlle...')
+#1 [internal function]: spl_autoload_call('GroupsControlle...')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('GroupsControlle...')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-13 17:21:05 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /groups/view?q=%2Fgroups%2Fview
+Stack Trace:
+#0 [internal function]: App::load('GroupsControlle...')
+#1 [internal function]: spl_autoload_call('GroupsControlle...')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('GroupsControlle...')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-13 17:22:55 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /groups/add?q=%2Fgroups%2Fadd
+Stack Trace:
+#0 [internal function]: App::load('GroupsControlle...')
+#1 [internal function]: spl_autoload_call('GroupsControlle...')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('GroupsControlle...')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-13 17:22:58 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /groups/add?q=%2Fgroups%2Fadd
+Stack Trace:
+#0 [internal function]: App::load('GroupsControlle...')
+#1 [internal function]: spl_autoload_call('GroupsControlle...')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('GroupsControlle...')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-13 17:45:20 Error: [ParseError] syntax error, unexpected 'id' (T_STRING), expecting ']'
+Request URL: /widgets/index?q=%2Fwidgets%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#1 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#2 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(WidgetsController), Object(CakeRequest))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-13 17:45:39 Error: [NotFoundException] Invalid widget
+Request URL: /widgets/view?q=%2Fwidgets%2Fview
+Stack Trace:
+#0 [internal function]: WidgetsController->view()
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(WidgetsController), Array)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(WidgetsController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-13 17:45:54 Error: [NotFoundException] Invalid widget
+Request URL: /widgets/edit?q=%2Fwidgets%2Fedit
+Stack Trace:
+#0 [internal function]: WidgetsController->edit()
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(WidgetsController), Array)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(WidgetsController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-13 17:47:01 Error: [ParseError] syntax error, unexpected 'id' (T_STRING), expecting ']'
+Request URL: /widgets/index?q=%2Fwidgets%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#1 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#2 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(WidgetsController), Object(CakeRequest))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-13 17:49:34 Error: [ParseError] syntax error, unexpected 'id' (T_STRING), expecting ']'
+Request URL: /widgets/index?q=%2Fwidgets%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#1 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#2 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(WidgetsController), Object(CakeRequest))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-14 11:20:24 Error: [Error] Call to a member function success() on null
+Request URL: /groups/add?q=%2Fgroups%2Fadd
+Stack Trace:
+#0 [internal function]: GroupsController->add()
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(GroupsController), Array)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(GroupsController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-14 11:27:08 Error: [Error] Call to a member function success() on null
+Request URL: /groups/add?q=%2Fgroups%2Fadd
+Stack Trace:
+#0 [internal function]: GroupsController->add()
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(GroupsController), Array)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(GroupsController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-14 14:36:02 Error: [NotFoundException] Invalid user
+Request URL: /users/edit?q=%2Fusers%2Fedit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-14 15:23:04 Error: [ParseError] syntax error, unexpected '’' (T_STRING), expecting ',' or ')'
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 [internal function]: App::load('UsersController')
+#1 [internal function]: spl_autoload_call('UsersController')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('UsersController')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-14 15:23:09 Error: [ParseError] syntax error, unexpected '’' (T_STRING), expecting ',' or ')'
+Request URL: /users/initdb?q=%2Fusers%2Finitdb
+Stack Trace:
+#0 [internal function]: App::load('UsersController')
+#1 [internal function]: spl_autoload_call('UsersController')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('UsersController')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-14 15:37:24 Error: [MissingActionException] Action UsersController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+)
+Request URL: /users/login?q=%2Fusers%2Flogin
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-09-14 15:37:48 Error: [MissingActionException] Action UsersController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+)
+Request URL: /users/login?q=%2Fusers%2Flogin
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-09-14 15:40:05 Error: [Error] Call to a member function success() on null
+Request URL: /users/add?q=%2Fusers%2Fadd
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-14 15:56:03 Error: [NotFoundException] Invalid user
+Request URL: /users/view?q=%2Fusers%2Fview
+Stack Trace:
+#0 [internal function]: UsersController->view()
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-14 15:57:40 Error: [NotFoundException] Invalid user
+Request URL: /users/edit?q=%2Fusers%2Fedit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-14 15:59:23 Error: [ParseError] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+Request URL: /users/delete/3?q=%2Fusers%2Fdelete%2F3
+Stack Trace:
+#0 [internal function]: App::load('UsersController')
+#1 [internal function]: spl_autoload_call('UsersController')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('UsersController')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-14 15:59:28 Error: [ParseError] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 [internal function]: App::load('UsersController')
+#1 [internal function]: spl_autoload_call('UsersController')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('UsersController')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-14 16:03:58 Error: [ParseError] syntax error, unexpected 'new' (T_NEW)
+Request URL: /users/build_acl?q=%2Fusers%2Fbuild_acl
+Stack Trace:
+#0 [internal function]: App::load('UsersController')
+#1 [internal function]: spl_autoload_call('UsersController')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('UsersController')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-14 16:05:04 Error: [ParseError] syntax error, unexpected 'new' (T_NEW)
+Request URL: /users/build_acl?q=%2Fusers%2Fbuild_acl
+Stack Trace:
+#0 [internal function]: App::load('UsersController')
+#1 [internal function]: spl_autoload_call('UsersController')
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('UsersController')
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-09-14 16:16:12 Error: [MissingActionException] Action UsersController::build_acl() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'build_acl',
+)
+Request URL: /users/build_acl?q=%2Fusers%2Fbuild_acl
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-09-14 16:16:17 Error: [MissingActionException] Action UsersController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+)
+Request URL: /users/login?q=%2Fusers%2Flogin
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-09-14 17:11:53 Error: [MissingActionException] Action UsersController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'add',
+)
+Request URL: /users/add?q=%2Fusers%2Fadd
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-09-14 17:12:42 Error: [MissingViewException] View file "Users/logout.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/logout.ctp',
+)
+Request URL: /users/logout?q=%2Fusers%2Flogout
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Users/logout')
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-14 17:12:44 Error: [MissingActionException] Action UsersController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+)
+Request URL: /users/login?q=%2Fusers%2Flogin
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-09-14 17:31:54 Error: [CakeException] AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+"
+Request URL: /posts/add?q=%2Fposts%2Fadd
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Model/Permission.php(80): AclNode->node(Array)
+#1 /var/www/cakephp/lib/Cake/Controller/Component/Acl/DbAcl.php(73): Permission->check(Array, 'controllers/Pos...', '*')
+#2 /var/www/cakephp/lib/Cake/Controller/Component/AclComponent.php(110): DbAcl->check(Array, 'controllers/Pos...', '*')
+#3 /var/www/cakephp/lib/Cake/Controller/Component/Auth/ActionsAuthorize.php(38): AclComponent->check(Array, 'controllers/Pos...')
+#4 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(469): ActionsAuthorize->authorize(Array, Object(CakeRequest))
+#5 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(310): AuthComponent->isAuthorized(Array)
+#6 /var/www/cakephp/lib/Cake/Utility/ObjectCollection.php(128): AuthComponent->startup(Object(PostsController))
+#7 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): ObjectCollection->trigger('startup')
+#8 /var/www/cakephp/lib/Cake/Controller/Controller.php(678): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#10 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-09-14 17:33:42 Error: [CakeException] AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+"
+Request URL: /posts/add?q=%2Fposts%2Fadd
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Model/Permission.php(80): AclNode->node(Array)
+#1 /var/www/cakephp/lib/Cake/Controller/Component/Acl/DbAcl.php(73): Permission->check(Array, 'controllers/Pos...', '*')
+#2 /var/www/cakephp/lib/Cake/Controller/Component/AclComponent.php(110): DbAcl->check(Array, 'controllers/Pos...', '*')
+#3 /var/www/cakephp/lib/Cake/Controller/Component/Auth/ActionsAuthorize.php(38): AclComponent->check(Array, 'controllers/Pos...')
+#4 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(469): ActionsAuthorize->authorize(Array, Object(CakeRequest))
+#5 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(310): AuthComponent->isAuthorized(Array)
+#6 /var/www/cakephp/lib/Cake/Utility/ObjectCollection.php(128): AuthComponent->startup(Object(PostsController))
+#7 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): ObjectCollection->trigger('startup')
+#8 /var/www/cakephp/lib/Cake/Controller/Controller.php(678): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#10 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-09-14 17:38:39 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/login?q=%2Fusers%2Flogin
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/Controller/Component/Auth/BaseAuthenticate.php(125): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/Controller/Component/Auth/FormAuthenticate.php(78): BaseAuthenticate->_findUser('admin', 'aaaa')
+#5 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(771): FormAuthenticate->authenticate(Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(611): AuthComponent->identify(Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/cakephp/app/Controller/UsersController.php(15): AuthComponent->login()
+#8 [internal function]: UsersController->login()
+#9 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#10 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#12 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2017-09-14 17:40:29 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/login?q=%2Fusers%2Flogin
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(163): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(204): FormHelper->_getModel('User')
+#5 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(354): FormHelper->_introspectModel('User', 'key')
+#6 /var/www/cakephp/app/View/Users/login.ctp(3): FormHelper->create('User', Array)
+#7 /var/www/cakephp/lib/Cake/View/View.php(971): include('/var/www/cakeph...')
+#8 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#9 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#10 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#11 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#12 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#13 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2017-09-14 17:40:58 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/login?q=%2Fusers%2Flogin
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(163): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(204): FormHelper->_getModel('User')
+#5 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(354): FormHelper->_introspectModel('User', 'key')
+#6 /var/www/cakephp/app/View/Users/login.ctp(3): FormHelper->create('User', Array)
+#7 /var/www/cakephp/lib/Cake/View/View.php(971): include('/var/www/cakeph...')
+#8 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#9 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#10 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#11 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#12 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#13 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2017-09-14 17:42:33 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/login?q=%2Fusers%2Flogin
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(163): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(204): FormHelper->_getModel('User')
+#5 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(354): FormHelper->_introspectModel('User', 'key')
+#6 /var/www/cakephp/app/View/Users/login.ctp(3): FormHelper->create('User', Array)
+#7 /var/www/cakephp/lib/Cake/View/View.php(971): include('/var/www/cakeph...')
+#8 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#9 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#10 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#11 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#12 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#13 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2017-09-14 17:42:58 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/add?q=%2Fusers%2Fadd
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(163): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(204): FormHelper->_getModel('User')
+#5 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(354): FormHelper->_introspectModel('User', 'key')
+#6 /var/www/cakephp/app/View/Users/add.ctp(3): FormHelper->create('User')
+#7 /var/www/cakephp/lib/Cake/View/View.php(971): include('/var/www/cakeph...')
+#8 /var/www/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/var/www/cakeph...', Array)
+#9 /var/www/cakephp/lib/Cake/View/View.php(473): View->_render('/var/www/cakeph...')
+#10 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#11 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#12 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#13 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2017-09-14 17:43:07 Error: [MissingControllerException] Controller class GroupController could not be found.
+Exception Attributes: array (
+  'class' => 'GroupController',
+  'plugin' => NULL,
+)
+Request URL: /group/add?q=%2Fgroup%2Fadd
+Stack Trace:
+#0 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-14 17:43:30 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/Controller/Controller.php(741): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/Controller/Controller.php(368): Controller->loadModel('User')
+#5 /var/www/cakephp/lib/Cake/Controller/Controller.php(406): Controller->__isset('User')
+#6 /var/www/cakephp/app/Controller/UsersController.php(26): Controller->__get('User')
+#7 [internal function]: UsersController->index()
+#8 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-09-14 17:44:01 Error: [MissingActionException] Action UsersController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'index',
+)
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-09-14 17:44:15 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/Controller/Controller.php(741): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/Controller/Controller.php(368): Controller->loadModel('User')
+#5 /var/www/cakephp/lib/Cake/Controller/Controller.php(406): Controller->__isset('User')
+#6 /var/www/cakephp/app/Controller/UsersController.php(16): Controller->__get('User')
+#7 [internal function]: UsersController->index()
+#8 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-09-14 17:44:40 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/Model/AclNode.php(135): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/Model/Permission.php(80): AclNode->node(Array)
+#5 /var/www/cakephp/lib/Cake/Controller/Component/Acl/DbAcl.php(73): Permission->check(Array, 'controllers/Use...', '*')
+#6 /var/www/cakephp/lib/Cake/Controller/Component/AclComponent.php(110): DbAcl->check(Array, 'controllers/Use...', '*')
+#7 /var/www/cakephp/lib/Cake/Controller/Component/Auth/ActionsAuthorize.php(38): AclComponent->check(Array, 'controllers/Use...')
+#8 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(469): ActionsAuthorize->authorize(Array, Object(CakeRequest))
+#9 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(310): AuthComponent->isAuthorized(Array)
+#10 /var/www/cakephp/lib/Cake/Utility/ObjectCollection.php(128): AuthComponent->startup(Object(UsersController))
+#11 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): ObjectCollection->trigger('startup')
+#12 /var/www/cakephp/lib/Cake/Controller/Controller.php(678): CakeEventManager->dispatch(Object(CakeEvent))
+#13 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#14 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#15 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2017-09-14 17:45:18 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/Model/AclNode.php(135): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/Model/Permission.php(80): AclNode->node(Array)
+#5 /var/www/cakephp/lib/Cake/Controller/Component/Acl/DbAcl.php(73): Permission->check(Array, 'controllers/Use...', '*')
+#6 /var/www/cakephp/lib/Cake/Controller/Component/AclComponent.php(110): DbAcl->check(Array, 'controllers/Use...', '*')
+#7 /var/www/cakephp/lib/Cake/Controller/Component/Auth/ActionsAuthorize.php(38): AclComponent->check(Array, 'controllers/Use...')
+#8 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(469): ActionsAuthorize->authorize(Array, Object(CakeRequest))
+#9 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(310): AuthComponent->isAuthorized(Array)
+#10 /var/www/cakephp/lib/Cake/Utility/ObjectCollection.php(128): AuthComponent->startup(Object(UsersController))
+#11 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): ObjectCollection->trigger('startup')
+#12 /var/www/cakephp/lib/Cake/Controller/Controller.php(678): CakeEventManager->dispatch(Object(CakeEvent))
+#13 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#14 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#15 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2017-09-14 17:45:35 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/Model/AclNode.php(135): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/Model/Permission.php(80): AclNode->node(Array)
+#5 /var/www/cakephp/lib/Cake/Controller/Component/Acl/DbAcl.php(73): Permission->check(Array, 'controllers/Use...', '*')
+#6 /var/www/cakephp/lib/Cake/Controller/Component/AclComponent.php(110): DbAcl->check(Array, 'controllers/Use...', '*')
+#7 /var/www/cakephp/lib/Cake/Controller/Component/Auth/ActionsAuthorize.php(38): AclComponent->check(Array, 'controllers/Use...')
+#8 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(469): ActionsAuthorize->authorize(Array, Object(CakeRequest))
+#9 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(310): AuthComponent->isAuthorized(Array)
+#10 /var/www/cakephp/lib/Cake/Utility/ObjectCollection.php(128): AuthComponent->startup(Object(UsersController))
+#11 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): ObjectCollection->trigger('startup')
+#12 /var/www/cakephp/lib/Cake/Controller/Controller.php(678): CakeEventManager->dispatch(Object(CakeEvent))
+#13 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#14 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#15 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2017-09-14 17:46:08 Error: [Error] Call to a member function allow() on null
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): UsersController->beforeFilter(Object(CakeEvent))
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-14 17:46:34 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/Controller/Controller.php(741): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/Controller/Controller.php(368): Controller->loadModel('User')
+#5 /var/www/cakephp/lib/Cake/Controller/Controller.php(406): Controller->__isset('User')
+#6 /var/www/cakephp/app/Controller/UsersController.php(26): Controller->__get('User')
+#7 [internal function]: UsersController->index()
+#8 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-09-14 17:47:34 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 [internal function]: App::load('User')
+#1 [internal function]: spl_autoload_call('User')
+#2 /var/www/cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('User')
+#3 /var/www/cakephp/lib/Cake/Controller/Controller.php(741): ClassRegistry::init('User')
+#4 /var/www/cakephp/lib/Cake/Controller/Controller.php(368): Controller->loadModel('User')
+#5 /var/www/cakephp/lib/Cake/Controller/Controller.php(406): Controller->__isset('User')
+#6 /var/www/cakephp/app/Controller/UsersController.php(26): Controller->__get('User')
+#7 [internal function]: UsersController->index()
+#8 /var/www/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-09-14 17:48:21 Error: [CakeException] AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+"
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Model/Permission.php(80): AclNode->node(Array)
+#1 /var/www/cakephp/lib/Cake/Controller/Component/Acl/DbAcl.php(73): Permission->check(Array, 'controllers/Use...', '*')
+#2 /var/www/cakephp/lib/Cake/Controller/Component/AclComponent.php(110): DbAcl->check(Array, 'controllers/Use...', '*')
+#3 /var/www/cakephp/lib/Cake/Controller/Component/Auth/ActionsAuthorize.php(38): AclComponent->check(Array, 'controllers/Use...')
+#4 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(469): ActionsAuthorize->authorize(Array, Object(CakeRequest))
+#5 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(310): AuthComponent->isAuthorized(Array)
+#6 /var/www/cakephp/lib/Cake/Utility/ObjectCollection.php(128): AuthComponent->startup(Object(UsersController))
+#7 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): ObjectCollection->trigger('startup')
+#8 /var/www/cakephp/lib/Cake/Controller/Controller.php(678): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#10 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-09-14 17:49:02 Error: [CakeException] AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+"
+Request URL: /users/index?q=%2Fusers%2Findex
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Model/Permission.php(80): AclNode->node(Array)
+#1 /var/www/cakephp/lib/Cake/Controller/Component/Acl/DbAcl.php(73): Permission->check(Array, 'controllers/Use...', '*')
+#2 /var/www/cakephp/lib/Cake/Controller/Component/AclComponent.php(110): DbAcl->check(Array, 'controllers/Use...', '*')
+#3 /var/www/cakephp/lib/Cake/Controller/Component/Auth/ActionsAuthorize.php(38): AclComponent->check(Array, 'controllers/Use...')
+#4 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(469): ActionsAuthorize->authorize(Array, Object(CakeRequest))
+#5 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(310): AuthComponent->isAuthorized(Array)
+#6 /var/www/cakephp/lib/Cake/Utility/ObjectCollection.php(128): AuthComponent->startup(Object(UsersController))
+#7 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): ObjectCollection->trigger('startup')
+#8 /var/www/cakephp/lib/Cake/Controller/Controller.php(678): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#10 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-09-14 17:50:35 Error: [CakeException] AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+"
+Request URL: /posts/add?q=%2Fposts%2Fadd
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Model/Permission.php(80): AclNode->node(Array)
+#1 /var/www/cakephp/lib/Cake/Controller/Component/Acl/DbAcl.php(73): Permission->check(Array, 'controllers/Pos...', '*')
+#2 /var/www/cakephp/lib/Cake/Controller/Component/AclComponent.php(110): DbAcl->check(Array, 'controllers/Pos...', '*')
+#3 /var/www/cakephp/lib/Cake/Controller/Component/Auth/ActionsAuthorize.php(38): AclComponent->check(Array, 'controllers/Pos...')
+#4 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(469): ActionsAuthorize->authorize(Array, Object(CakeRequest))
+#5 /var/www/cakephp/lib/Cake/Controller/Component/AuthComponent.php(310): AuthComponent->isAuthorized(Array)
+#6 /var/www/cakephp/lib/Cake/Utility/ObjectCollection.php(128): AuthComponent->startup(Object(PostsController))
+#7 /var/www/cakephp/lib/Cake/Event/CakeEventManager.php(243): ObjectCollection->trigger('startup')
+#8 /var/www/cakephp/lib/Cake/Controller/Controller.php(678): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#10 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-09-14 18:17:32 Error: [MissingViewException] View file "Users/logout.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/logout.ctp',
+)
+Request URL: /users/logout?q=%2Fusers%2Flogout
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Users/logout')
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-09-14 18:18:01 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /user?q=%2Fuser
+Stack Trace:
+#0 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-14 18:18:25 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /user?q=%2Fuser
+Stack Trace:
+#0 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-14 18:18:42 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /user?q=%2Fuser
+Stack Trace:
+#0 /var/www/cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-14 18:21:44 Error: Fatal Error (64): Cannot redeclare UsersController::initDB() in [/var/www/cakephp/app/Controller/UsersController.php, line 34]
+2017-09-14 18:21:44 Error: [FatalErrorException] Cannot redeclare UsersController::initDB()
+Request URL: /users/initdb?q=%2Fusers%2Finitdb
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/var/www/cakeph...', 34)
+#1 /var/www/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(64, 'Cannot redeclar...', '/var/www/cakeph...', 34, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-09-14 18:22:33 Error: Fatal Error (64): Cannot redeclare UsersController::initDB() in [/var/www/cakephp/app/Controller/UsersController.php, line 37]
+2017-09-14 18:22:33 Error: [FatalErrorException] Cannot redeclare UsersController::initDB()
+Request URL: /users/initdb?q=%2Fusers%2Finitdb
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/var/www/cakeph...', 37)
+#1 /var/www/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(64, 'Cannot redeclar...', '/var/www/cakeph...', 37, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-09-14 18:23:06 Error: Fatal Error (64): Cannot redeclare UsersController::initDB() in [/var/www/cakephp/app/Controller/UsersController.php, line 37]
+2017-09-14 18:23:06 Error: [FatalErrorException] Cannot redeclare UsersController::initDB()
+Request URL: /users/initdb?q=%2Fusers%2Finitdb
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/var/www/cakeph...', 37)
+#1 /var/www/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(64, 'Cannot redeclar...', '/var/www/cakeph...', 37, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
